@@ -11,3 +11,9 @@ compartilhamento de repositório pelo github
 
 > Repositório alterado
 > Com dados novo para o meu projeto
+
+---
+
+    git commit-m "Comandos"
+
+---
